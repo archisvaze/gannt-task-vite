@@ -1,4 +1,4 @@
-# gantt-task-react
+# gantt-task-vite
 
 ## Interactive Gantt Chart.
 
